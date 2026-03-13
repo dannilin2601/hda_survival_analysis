@@ -21,3 +21,20 @@ This repository provides:
 - **Jupyter notebooks for TCGA dataset experiments**
 
 The notebooks are designed to be easily uploaded and executed on **Kaggle**, enabling users to reproduce the experiments in a cloud-based environment without requiring local computational resources.
+
+## Cite This Work
+
+If you find this repository useful in your research, please consider citing our work:
+
+Lin, D. N., Du, D., & Nair, N. (2026).  
+**Heterogeneous Domain Adaptation Survival Analysis with Partially Observed Outcomes via Dictionary Learning and MMD Alignment.**  Submitted to *Journal of Biomedical Informatics*.
+
+### BibTeX
+```bibtex
+@article{lin2026hda_survival,
+  title={Heterogeneous Domain Adaptation Survival Analysis with Partially Observed Outcomes via Dictionary Learning and MMD Alignment},
+  author={Lin, Dan Ni and Du, Dongping and Nair, Nandini},
+  journal={Journal of Biomedical Informatics},
+  year={2026},
+  note={Under review}
+}
