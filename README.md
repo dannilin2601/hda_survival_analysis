@@ -1,2 +1,3 @@
-# hda_survival_analysis
+# Heterogeneous Domain Adaptation Survival Analysis with Partially Observed Outcomes via Dictionary Learning and MMD Alignment
+
 Code repository for the implementation of Heterogeneous Domain Adaptation Survival Analysis with Partially Observed Outcomes via Dictionary Learning and MMD Alignment.
