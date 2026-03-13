@@ -22,6 +22,20 @@ This repository provides:
 
 The notebooks are designed to be easily uploaded and executed on **Kaggle**, enabling users to reproduce the experiments in a cloud-based environment without requiring local computational resources.
 
+## Running Experiments and Hyperparameter Configuration
+
+To run an experiment:
+
+1. Open the desired notebook (simulation or TCGA experiment).
+2. Navigate to the section titled **"Run Model"**.
+3. In this section, users can modify the **hyperparameters** if needed (e.g., learning rate, number of hidden units, regularization parameters, unsupervised fraction, etc.).
+4. Execute the notebook cells to train the model and perform evaluation.
+
+All experiment outputs are automatically saved as a **CSV file**, which contains:
+- The **hyperparameters used for the run**
+- **Model configuration details**
+- **Evaluation metrics** (e.g., C-index and other performance measures)
+
 ## Cite This Work
 
 If you find this repository useful in your research, please consider citing our work:
