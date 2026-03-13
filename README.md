@@ -20,8 +20,6 @@ This repository provides:
 - **Jupyter notebooks for simulation experiments**
 - **Jupyter notebooks for TCGA dataset experiments**
 
-The notebooks are designed to be easily uploaded and executed on **Kaggle**, enabling users to reproduce the experiments in a cloud-based environment without requiring local computational resources.
-
 ## Running Experiments and Hyperparameter Configuration
 
 To run an experiment:
@@ -35,6 +33,8 @@ All experiment outputs are automatically saved as a **CSV file**, which contains
 - The **hyperparameters used for the run**
 - **Model configuration details**
 - **Evaluation metrics** (e.g., C-index and other performance measures)
+
+The notebooks are designed to be easily uploaded and executed on **Kaggle**, enabling users to reproduce the experiments in a cloud-based environment without requiring local computational resources.
 
 ## Cite This Work
 
