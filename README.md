@@ -1,8 +1,8 @@
-# Heterogeneous Domain Adaptation Survival Analysis with Partially Observed Outcomes via Dictionary Learning and MMD Alignment
+# Heterogeneous Domain Adaptation Survival Analysis with Partially Observed Outcomes via Dictionary Learning and Distribution Alignment
 
 ## About This Project
 
-This repository contains the implementation of the paper entitled **Heterogeneous Domain Adaptation (HDA) for Survival Analysis with Partially Observed Outcomes  via Dictionary Learning and MMD Alignment**.
+This repository contains the implementation of the paper entitled **Heterogeneous Domain Adaptation Survival Analysis with Partially Observed Outcomes via Dictionary Learning and Distribution Alignment**.
 
 The goal of this project is to improve **time-to-event prediction in data-scarce clinical settings (target domain)**, where survival outcomes (event indicators and time-to-event) may be partially missing. The framework leverages **external datasets (source domains)** to enhance prediction performance on the **target dataset**, even when source and target data differ in feature dimensionality and covariate distributions.
 
@@ -41,12 +41,12 @@ The notebooks are designed to be easily uploaded and executed on **Kaggle**, ena
 If you find this repository useful in your research, please consider citing our work:
 
 Lin, D. N., Du, D., & Nair, N. (2026).  
-**Heterogeneous Domain Adaptation Survival Analysis with Partially Observed Outcomes via Dictionary Learning and MMD Alignment.**  Submitted to *Journal of Biomedical Informatics*.
+**Heterogeneous Domain Adaptation Survival Analysis with Partially Observed Outcomes via Dictionary Learning and Distribution Alignment.**  Submitted to *Journal of Biomedical Informatics*.
 
 ### BibTeX
 ```bibtex
 @article{lin2026hda_survival,
-  title={Heterogeneous Domain Adaptation Survival Analysis with Partially Observed Outcomes via Dictionary Learning and MMD Alignment},
+  title={Heterogeneous Domain Adaptation Survival Analysis with Partially Observed Outcomes via Dictionary Learning and Distribution Alignment},
   author={Lin, Dan Ni and Du, Dongping and Nair, Nandini},
   journal={Journal of Biomedical Informatics},
   year={2026},
