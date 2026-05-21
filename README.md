@@ -41,7 +41,7 @@ The notebooks are designed to be easily uploaded and executed on **Kaggle**, ena
 If you find this repository useful in your research, please consider citing our work:
 
 Lin, D. N., Du, D., & Nair, N. (2026).  
-**Heterogeneous Domain Adaptation Survival Analysis with Partially Observed Outcomes via Dictionary Learning and Distribution Alignment.**  Submitted to *Journal of Biomedical Informatics*.
+**Heterogeneous Domain Adaptation Survival Analysis with Partially Observed Outcomes via Dictionary Learning and Distribution Alignment.**  Published at *Journal of Biomedical Informatics*.
 
 ### BibTeX
 ```bibtex
@@ -50,5 +50,5 @@ Lin, D. N., Du, D., & Nair, N. (2026).
   author={Lin, Dan Ni and Du, Dongping and Nair, Nandini},
   journal={Journal of Biomedical Informatics},
   year={2026},
-  note={Under review}
+  doi={doi.org/10.1016/j.jbi.2026.105057}
 }
