@@ -50,5 +50,5 @@ Lin, D. N., Du, D., & Nair, N. (2026).
   author={Lin, Dan Ni and Du, Dongping and Nair, Nandini},
   journal={Journal of Biomedical Informatics},
   year={2026},
-  doi={doi.org/10.1016/j.jbi.2026.105057}
+  doi={10.1016/j.jbi.2026.105057}
 }
